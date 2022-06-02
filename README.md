@@ -1,7 +1,5 @@
 # zoo-starter-code
 
-This repository is the website starter code for Assignment 1 - Zoo.
+This repository is the website created by group Progress for Assignment 1 - Zoo.
 
-
-edited
-[Website link](https://remit233.github.io)
+Joey's: testing link(https://remit233.github.io)
