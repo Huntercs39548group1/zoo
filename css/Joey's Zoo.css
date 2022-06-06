@@ -1,5 +1,9 @@
+
 body {
   font-family: 'Times New Roman', Times, serif;
-  background-color: rgb(249, 223, 178);
+  background: url("../img/Joey\'s\ img/Joey's zoo.jpg") no-repeat center center fixed;;
   text-align: center;
+  background-size: cover;
+  font-size: 30px;
+  color: rgb(34, 29, 29);
 }
