@@ -7,4 +7,4 @@ Team members:
 - Sergey Kisselev - skissele
 - Junior Tenezaca - TJunior1323
 
-[Website Linke](https://huntercs39548group1.github.io/zoo/)
+[Website Link](https://huntercs39548group1.github.io/zoo/)
