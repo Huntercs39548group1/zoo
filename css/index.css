@@ -4,4 +4,6 @@ body {
   text-align: center;
   background-position: center bottom;
   background-color: aquamarine;
+  text-shadow: 1px 0 0 rgb(255, 255, 255), 0 -1px 0 rgb(169, 113, 0), 0 1px 0 rgb(255, 255, 255), -1px 0 0 rgb(255, 255, 255);
+
 }
