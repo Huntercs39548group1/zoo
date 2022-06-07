@@ -13,11 +13,13 @@ li {
 }
 
 li a {
+    font-family: Gill Sans, sans-serif;
+    font-size: 15px;
     display: block;
     color: rgb(8, 8, 37);
     text-align: center;
     padding: 10px 14px;
-    text-decoration: none;
+    text-decoration: none; 
 }
 
 li a:hover:not(.active) {
